@@ -1,0 +1,9 @@
+name: js-generators-vs-array-methods
+dependencies:
+  - conda-forge::altair=5.4.1
+  - conda-forge::ipykernel=6.29.5
+  - conda-forge::matplotlib=3.9.2
+  - conda-forge::pandas=2.2.2
+  - conda-forge::polars=1.6.0
+  - conda-forge::pyarrow=17.0.0
+  - conda-forge::scipy=1.14.1
