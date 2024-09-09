@@ -1,8 +1,8 @@
 # JavaScript Generators vs. Array Methods
 
-<!-- TODO: add link to the article -->
+The repository for all the scripts, notebooks, results, and analyses related to my experiments on JavaScript generators and chained array methods. See the full article ["I was wrong about array methods and generators..."][article] for more details on the methodology, results, interpretations, and conclusions.
 
-The repository for all the scripts, notebooks, results, and analyses related to my experiments on JavaScript generators and chained array methods. See the full article "I was wrong about array methods and generators..." for more details on the methodology, results, interpretations, and conclusions.
+[article]: https://dev.to/somedood/i-was-wrong-about-array-methods-and-generators-2ig9
 
 ## Generating Random Bytes
 
